@@ -16,7 +16,7 @@ My name is Penny Wang and I'm currently studying Computer Science at CUNY Queens
 I'm interested in exploring data science, machine learning, and artificial intelligence.
 Some of my hobbies include reading, music production, and animations.
 
-**Fun Fact:** I can recite 100 digits of pi.
+Fun Fact: I can recite 100 digits of pi.
 
 
 
