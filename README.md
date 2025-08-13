@@ -1,4 +1,4 @@
-# Welcome to Penny's Portfolio
+# Welcome to Penny Wang's Portfolio
 
 ![Profile Picture](Penny_Wang.jpg)
 
