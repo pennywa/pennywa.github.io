@@ -1,7 +1,8 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   max-width: 800px;
-  margin: 0 auto;
+  margin-left: 20px; 
+  margin-right: auto;
   padding: 20px;
 }
 
